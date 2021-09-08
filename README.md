@@ -29,4 +29,4 @@ This [precisely](https://www.precisely.com/blog/data-quality/data-quality-dimens
 
 ## Data Insights
 
-## Findings and Presentation
+## Dashboard Presentation
