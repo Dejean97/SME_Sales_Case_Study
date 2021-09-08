@@ -1,4 +1,4 @@
-# SME_Sales_Case_Study
+# SME Sales Case Study
 
 This project (brief description)
 
