@@ -18,6 +18,8 @@ Inspiration, and the data used, for this project came from the KPMG Data Analyti
 - *Customer Addresses*
 - *Transactions data in the past 3 months*
 
+*As well as a new customer list to employ a targeted sales startegy on, later on in the project.*
+
 *You decide to start the preliminary data exploration and identify ways to improve the quality of Sprocket Central Pty Ltd’s data.*
 
 ### Task
