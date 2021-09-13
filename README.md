@@ -25,7 +25,7 @@ Inspiration, and the data used, for this project came from the KPMG Data Analyti
 ### Task
 Explore the data and draft an email to the client identifying the data quality issues and strategies to mitigate these issues.
 
-This [precisely](https://www.precisely.com/blog/data-quality/data-quality-dimensions-measure) blog post was used as a framework to identify and measure data quality issues.
+This towards data science blog [post](https://towardsdatascience.com/the-six-dimensions-of-data-quality-and-how-to-deal-with-them-bdcf9a3dba71) was used as a framework to identify and measure data quality issues.
 
 ## Data Insights
 
