@@ -29,4 +29,6 @@ This towards data science blog [post](https://towardsdatascience.com/the-six-dim
 
 ## Data Insights
 
+Having read [this](https://towardsdatascience.com/cluster-then-predict-for-classification-tasks-142fdfdc87d6) towards data science post, I looked to combine previously learnt clustering analysis techniques with classification to identify which of the new customers posed the greatest potential value.
+
 ## Dashboard Presentation
