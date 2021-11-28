@@ -2,7 +2,7 @@
 
 This project (brief description)
 
-Inspiration, and the data used, for this project came from the KPMG Data Analytics Virtual Experience Program on [Forage](https://www.theforage.com/virtual-internships/theme/m7W4GMqeT3bh9Nb2c/KPMG-Data-Analytics-Virtual-Internship?ref=oiP3eujQmJmMY5YfG). A powerpoint presentation covering the entire project can be found [here].
+Inspiration, and the data used, for this project came from the KPMG Data Analytics Virtual Experience Program on [Forage](https://www.theforage.com/virtual-internships/theme/m7W4GMqeT3bh9Nb2c/KPMG-Data-Analytics-Virtual-Internship?ref=oiP3eujQmJmMY5YfG). A powerpoint presentation covering the entire project can be found [here](https://github.com/Dejean97/SME_Sales_Case_Study/blob/73cf16fb2b729338cefbb498ae9d5b5ad51fd44d/Sprocket%20Central%20Ltd.pptx).
 
 ## Data Quality Assessment
 
@@ -29,15 +29,15 @@ This towards data science blog [post](https://towardsdatascience.com/the-six-dim
 
 Pre-Cleaning Table Stats
 
-![Pre-Cleaning Table Stats](Task 1/Pre-Cleaning Table Stats.png)
+![Pre-Cleaning Table Stats](https://github.com/Dejean97/SME_Sales_Case_Study/blob/8c7f4be3b954c8489b34c873aec1867235a24b6b/Task%201/Pre-Cleaning%20Table%20Stats.png)
 
 Identified Data Quality Issues
-![Identified Data Quality Issues]
+![Identified Data Quality Issues](https://github.com/Dejean97/SME_Sales_Case_Study/blob/73cf16fb2b729338cefbb498ae9d5b5ad51fd44d/Task%201/Identified%20Data%20Quality%20Issues.png)
 
 Post-Cleaning Table Stats
-![Post-Cleaning Table Stats}
+![Post-Cleaning Table Stats](https://github.com/Dejean97/SME_Sales_Case_Study/blob/73cf16fb2b729338cefbb498ae9d5b5ad51fd44d/Task%201/Post-Cleaning%20Table%20Stats.png)
 
-A detailed description of data quality issues, and mitigatiion actions, can be found [here] in the draft email for task 1.
+A detailed description of data quality issues, and mitigatiion actions, can be found [here](https://github.com/Dejean97/SME_Sales_Case_Study/blob/73cf16fb2b729338cefbb498ae9d5b5ad51fd44d/Task%201/Draft%20Email%20Task%201.pdf) in the draft email for task 1.
 
 Having cleaned the data, some preliminary insights into the three datasets were visualised in Power BI.
 
