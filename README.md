@@ -2,7 +2,7 @@
 
 This project (brief description)
 
-Inspiration, and the data used, for this project came from the KPMG Data Analytics Virtual Experience Program on [Forage](https://www.theforage.com/virtual-internships/theme/m7W4GMqeT3bh9Nb2c/KPMG-Data-Analytics-Virtual-Internship?ref=oiP3eujQmJmMY5YfG).
+Inspiration, and the data used, for this project came from the KPMG Data Analytics Virtual Experience Program on [Forage](https://www.theforage.com/virtual-internships/theme/m7W4GMqeT3bh9Nb2c/KPMG-Data-Analytics-Virtual-Internship?ref=oiP3eujQmJmMY5YfG). A powerpoint presentation covering the entire project can be found [here].
 
 ## Data Quality Assessment
 
@@ -27,9 +27,15 @@ Explore the data and draft an email to the client identifying the data quality i
 
 This towards data science blog [post](https://towardsdatascience.com/the-six-dimensions-of-data-quality-and-how-to-deal-with-them-bdcf9a3dba71) was used as a framework to identify and measure data quality issues.
 
-Pre-Cleaning Table Stats
+# Pre-Cleaning Table Stats
 
+# Identified Data Quality Issues
 
+# Post-Cleaning Table Stats
+
+A detailed description of data quality issues, and mitigatiion actions, can be found [here] in the draft email for task 1.
+
+Having cleaned the data, some preliminary insights into the three datasets were visualised in Power BI.
 
 ## Data Insights
 
