@@ -27,7 +27,7 @@ Explore the data and draft an email to the client identifying the data quality i
 
 This towards data science blog [post](https://towardsdatascience.com/the-six-dimensions-of-data-quality-and-how-to-deal-with-them-bdcf9a3dba71) was used as a framework to identify and measure data quality issues.
 
-The raw [data](https://github.com/Dejean97/SME_Sales_Case_Study/blob/5b6dd3650e13e097ae742323e7f35f9a7e2ee9c4/Task%201/raw_data_for_cleaning.xlsx) was cleaned using python in jupyter notebook, which can be found [here](https://github.com/Dejean97/SME_Sales_Case_Study/blob/5b6dd3650e13e097ae742323e7f35f9a7e2ee9c4/Task%201/Data%20Cleaning.ipynb), and the resulting clean dataset exported as an excel file can be found [here](https://github.com/Dejean97/SME_Sales_Case_Study/blob/5b6dd3650e13e097ae742323e7f35f9a7e2ee9c4/Task%201/Sprocket%20Central%20Pty%20Ltd%20Clean.xlsx).
+The raw [data](https://github.com/Dejean97/SME_Sales_Case_Study/blob/5b6dd3650e13e097ae742323e7f35f9a7e2ee9c4/Task%201/raw_data_for_cleaning.xlsx) was cleaned using python in jupyter notebook, which can be found [here](https://github.com/Dejean97/SME_Sales_Case_Study/blob/5b6dd3650e13e097ae742323e7f35f9a7e2ee9c4/Task%201/Data%20Cleaning.ipynb), and the resulting clean dataset exported as an excel file can be found [here](https://github.com/Dejean97/SME_Sales_Case_Study/blob/5b6dd3650e13e097ae742323e7f35f9a7e2ee9c4/Task%201/Sprocket%20Central%20Pty%20Ltd%20Clean.xlsx). Below are the key table stats pre and post data cleaning, as well as a summary of the identified data quality issues.
 
 Pre-Cleaning Table Stats
 
