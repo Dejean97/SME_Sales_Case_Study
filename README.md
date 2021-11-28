@@ -27,6 +27,8 @@ Explore the data and draft an email to the client identifying the data quality i
 
 This towards data science blog [post](https://towardsdatascience.com/the-six-dimensions-of-data-quality-and-how-to-deal-with-them-bdcf9a3dba71) was used as a framework to identify and measure data quality issues.
 
+The raw [data](https://github.com/Dejean97/SME_Sales_Case_Study/blob/5b6dd3650e13e097ae742323e7f35f9a7e2ee9c4/Task%201/raw_data_for_cleaning.xlsx) was cleaned in python using jupyter notebook, which can be found [here](https://github.com/Dejean97/SME_Sales_Case_Study/blob/5b6dd3650e13e097ae742323e7f35f9a7e2ee9c4/Task%201/Data%20Cleaning.ipynb), and the resulting clean dataset exported as an excel file can be found [here](https://github.com/Dejean97/SME_Sales_Case_Study/blob/5b6dd3650e13e097ae742323e7f35f9a7e2ee9c4/Task%201/Sprocket%20Central%20Pty%20Ltd%20Clean.xlsx).
+
 Pre-Cleaning Table Stats
 
 ![Pre-Cleaning Table Stats](https://github.com/Dejean97/SME_Sales_Case_Study/blob/8c7f4be3b954c8489b34c873aec1867235a24b6b/Task%201/Pre-Cleaning%20Table%20Stats.png)
