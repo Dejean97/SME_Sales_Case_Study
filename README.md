@@ -27,6 +27,10 @@ Explore the data and draft an email to the client identifying the data quality i
 
 This towards data science blog [post](https://towardsdatascience.com/the-six-dimensions-of-data-quality-and-how-to-deal-with-them-bdcf9a3dba71) was used as a framework to identify and measure data quality issues.
 
+Pre-Cleaning Table Stats
+
+
+
 ## Data Insights
 
 Having read [this](https://towardsdatascience.com/cluster-then-predict-for-classification-tasks-142fdfdc87d6) towards data science post, I looked to combine previously learnt clustering analysis techniques with classification to identify which of the new customers posed the greatest potential value.
