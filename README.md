@@ -1,6 +1,6 @@
 # SME Sales Case Study
 
-This project (brief description)
+This project was my first attempt at an 'end-to-end' analytics project, taking raw business data and producing data models, insights and recommendations (including proposed customer segmentation) for a future sales strategy, as well as documenting the entire process as if in a consulting role.
 
 Inspiration, and the data used, for this project came from the KPMG Data Analytics Virtual Experience Program on [Forage](https://www.theforage.com/virtual-internships/theme/m7W4GMqeT3bh9Nb2c/KPMG-Data-Analytics-Virtual-Internship?ref=oiP3eujQmJmMY5YfG). A powerpoint presentation covering the entire project can be found [here](https://github.com/Dejean97/SME_Sales_Case_Study/blob/73cf16fb2b729338cefbb498ae9d5b5ad51fd44d/Sprocket%20Central%20Ltd.pptx).
 
