@@ -27,11 +27,14 @@ Explore the data and draft an email to the client identifying the data quality i
 
 This towards data science blog [post](https://towardsdatascience.com/the-six-dimensions-of-data-quality-and-how-to-deal-with-them-bdcf9a3dba71) was used as a framework to identify and measure data quality issues.
 
-#### Pre-Cleaning Table Stats
+Pre-Cleaning Table Stats
+![Pre-Cleaning Table Stats]
 
-#### Identified Data Quality Issues
+Identified Data Quality Issues
+![Identified Data Quality Issues]
 
-#### Post-Cleaning Table Stats
+Post-Cleaning Table Stats
+![Post-Cleaning Table Stats}
 
 A detailed description of data quality issues, and mitigatiion actions, can be found [here] in the draft email for task 1.
 
